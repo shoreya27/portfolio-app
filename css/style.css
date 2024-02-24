@@ -4,7 +4,7 @@
 }
 body {
   background-color: #092635;
-  color: #DF826C;
+  color: #df826c;
 }
 
 h2 {
@@ -13,7 +13,6 @@ h2 {
   margin-top: 20px;
   margin-left: 10px;
   text-align: center;
-  
 }
 header {
   height: 50%;
@@ -44,7 +43,7 @@ header img {
 }
 #briefMe {
   width: 50%;
-  background-color: #FAF6F0;
+  background-color: #faf6f0;
   border-radius: 4px;
   padding: 4px;
 }
@@ -58,7 +57,7 @@ header img {
 .mid-section div > p {
   font-size: 1rem;
   font-family: "Arimo", sans-serif;
-  color: #DF826C;;
+  color: #df826c;
 }
 
 .highlights {
@@ -69,8 +68,8 @@ header img {
 
 .skills {
   width: 100vw;
-  margin-top: 20rem;
+  margin-top: 10rem;
 }
-.skills p{
-  color: #DF826C;
+.skills p {
+  color: #df826c;
 }
